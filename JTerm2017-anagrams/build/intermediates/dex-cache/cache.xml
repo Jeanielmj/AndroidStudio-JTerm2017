@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/demouser/jterm2017/anagrams-DavidSouther/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.1_936d5299004d58927c44061e93a618dc9377091d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/anagrams-DavidSouther/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/demouser/jterm2017/anagrams-DavidSouther/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.2.1_a906d2afde0100cddd1d3e843a37150fde82e69d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/anagrams-DavidSouther/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09a5c0d65716f89fe880f403861d9951df747d50">
+        <dex dex="/Users/demouser/jterm2017/anagrams-DavidSouther/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b690336f46a4951603508b66b3c2c192a3a01b9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/anagrams-DavidSouther/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00c03cab6d71690c63e18eafb6861aa5fa5934b6">
+        <dex dex="/Users/demouser/jterm2017/anagrams-DavidSouther/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_aa5d3e6cd4aed7b034f9cfb1612bbda0f6babdcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/anagrams-DavidSouther/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/demouser/jterm2017/anagrams-DavidSouther/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.1_1f2d00f702c16f8c6fc3a0013961fd8c4b831a1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/anagrams-DavidSouther/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/demouser/jterm2017/anagrams-DavidSouther/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-22.2.1_bcbf44d319d4d390b76d3098bea371d5d463b1d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/anagrams-DavidSouther/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/demouser/jterm2017/anagrams-DavidSouther/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.1_a229e467fb89ceec8c6c05c93cffcc727382c8eb/classes.dex" />
+    </item>
+
+</items>

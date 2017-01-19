@@ -1,0 +1,7 @@
+#Thu Jan 19 14:02:35 EST 2017
+base.0=/Users/demouser/jterm2017/Scarne-s-Dice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_10b9184f036390be8345d1874b8cc10b4f3c9698
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/demouser/jterm2017/Scarne-s-Dice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b1e689e453db2d53744313680c00126ef32dcfa1/classes.dex
+base.1=/Users/demouser/jterm2017/Scarne-s-Dice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b1e689e453db2d53744313680c00126ef32dcfa1
+file.0=/Users/demouser/jterm2017/Scarne-s-Dice/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_10b9184f036390be8345d1874b8cc10b4f3c9698/classes.dex

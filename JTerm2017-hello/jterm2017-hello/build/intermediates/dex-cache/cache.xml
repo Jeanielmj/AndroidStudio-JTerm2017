@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_344d0720df8ad2c5538a67ef98c9cfd3fe1e8520/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_08bd94b527bcb08c04ae7c74f6d192e7aee8a359/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="87cc542092c63ed3408f036ffcc963f29df1cf9b">
+        <dex dex="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0e15e92e5cd064b0020ad3001537a10d758e0ed7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_df3a1e3611c8d5786d62e5692673f164debd6a82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_5d75b41e358ebcec584f074acde82fd373ed49a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_5ec39dca41c4c5e720d000257c9ddfc28422a9e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_a107922f4b1ee78aec2852b7a2dacad66b969c6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_f65b21be94d9448e4c8d50ff91ce20c54e65f273/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_88c279cbcfa70767f5452eaca8542885cbea5ee0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="658454bd80445d08a4e11e12cd303529c86c164a">
+        <dex dex="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c85a7ca5311c9203a2381b47ed5f90a522c33f95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_5413c70a00a92583f96fd4dfa3f99507869120fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/demouser/jterm2017-hello/jterm2017-hello/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_89a2664af9049a7944d6689f730c525c8768adf9/classes.dex" />
+    </item>
+
+</items>

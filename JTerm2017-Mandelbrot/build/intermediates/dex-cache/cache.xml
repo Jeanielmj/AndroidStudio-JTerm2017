@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9ef21baaeef63d333832f8f2fed18a9b20dd3a10">
+        <dex dex="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1ee54dbb4d0ac81f769c628e1f258dda3f811445/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_bc09c7a6752b8466483a343f0b80033fbc898405/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_fa760a0e036fc0154e8c0d668fe2a96534191915/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_a8b8d167631468ccc40e404a0334dcbd4b1d318a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_df3a1e3611c8d5786d62e5692673f164debd6a82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_746ff8bb428ec7e09a97ae91c60b2e75fa933f8d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_e529137c4ea2e7f6f5ec85a769cbe3fd14297bea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_ae6241bb4688b5c3df6c4624145722ffc1d78212/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_dabd28e6be50a08af537ceb70bec3040b77064bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="58a862f4376af60abfbc8f6a8107cc0bd869a785">
+        <dex dex="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_897a1bdeb1ff7a654e2db50d81466fd7785c6698/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_e7a6bd97d6e4b8d6299ac5722ec9738ee4762ad2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/demouser/jterm2017/jterm-Mandelbrot/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_299c71c2fb8e71af5fe1fe93c9a699344ef60708/classes.dex" />
+    </item>
+
+</items>

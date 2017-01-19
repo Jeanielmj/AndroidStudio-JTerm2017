@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ebcf3b6f3bcd3c08bb4443b91e7656c8eaff522f">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6be2e842fafaa91517b4a313e4938f40c4773020/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bb364f67ec2eba2356872b2b4ddfe8aada2d5ac">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.0_ba6c0b15ef7fbd4cdb770173f6f05cdea035bb97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-1.3.0_cc7923c7822fb605627d28f5eb675db9217a4b6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.0_078c179bb6a4b2199dc18185880f0cdf6aacf3cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_3288966c0b52152a73a9276ab4d4dadc6c2282ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2376d0ec8dbe85d3446cad64905c0395fbe220e">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.0_18fd4a6979dc10551ca37964b05508f1298efdd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_212683b27e3a5578cf02786ad6478b059a192d36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca730ac2d72056445bf68998cec6b6b2cf4d179e">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.0_f32b3a5835d0129e3a7884a64df4919194458460/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae809d521d9f7da5337a82edd64eea23a76e788d">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.0_0458002c8fda882d3bc3be59f87616f2d739c74b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.0_2cbf778c014cf8131fcd6852c741396038e3c6b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_e6c7b25d02d3ab29a9b0dc0ebd4b371a37d004ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_15f7b5f68f62f8f067f42edd3c5a16af240e65a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.0_1e5fdbf4ac00fbee5573429d30788d56e7409778/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-database-0.4.0_5c6a743b2a18589b5865c8f4f364dbb3399f50d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_41b960041faf821a300b6512a0b882a3d546ae73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="777627dcaf0eaacd4212220e8f2d0c63def91774">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.0_383c786391d3273a30d5b030ba8097750228bbd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb0229499e600b485a276d4e31161a3ae31c144c">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.0_47fc40d8549948b8c4bb5bc7bf14dfb546320eef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73fe8ab7f76e41d0cabbc4fa3399557de52efb2d">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.0_6a9ae5ccb76ea7f1f74cdcd23729d6c6e377fc1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_7eddcb9eb54f8659b4250f39ea2ef319468f7d29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_0841593a07e076a16f9b703ebe2b05d95b272737/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a05b3852a6aec21ea0a6ea4d284ee69c04c55c4">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.0_186ae566ba7f7ebcd8db4ed3db4799178a640cc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_2cbf10c121f083f90fd359bcec7162ba3bc182b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_49df2385e1a9fb7578f28e44561476d9d04be9ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_1d75b3343be78b6fc535481207a6410404251e69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.0_6a8d26c18c90603335b38bbabe87d46b972e3afc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="849da156edbc1201f5cd6e237524187442a62af3">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.0_0bb8ca449db51d3df94b5761ba6144b608a207a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_9a778621c9984e5acd5ba2ab855370efc2026edb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.0_9a188166ab9686decc0b9dc7b6fd6bb9019c7e11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a383a583c346ce8ea5767d77f4fe58e1d8e5f221">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.0.0_44a8a51d2b58b6e9140192345ecdee27939d8995/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_1d0c423c29515108935d5b134e90a2b1a318b28a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5172620fc9f0dc3c663ec4601c122a4c27ce3104">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_17dbc4cd77d56b0c6947f7f7e8e6cdb593d52298/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_ba604b0509d296654b99cccef80ff754e80a34ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.0_a981cf5fa2f685865e05f1dbad72093fcb02c5a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41e39c7ee84e63ae18df6c6ccb96d196996add4c">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.0_a2f6f141ec4c18ff1f1e4df1b9136bcb0af89ce3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_ec9a7daa8eff994b4cd7c8b86893317764643f47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_135e27260d3dcfc22aa1641c623de1d71baf1bcb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.1_d580d9b0d47d39c302792c29a682b0b0f6d6c24d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73a2c740a76aa4ba46168ed8bcdee1966e48a589">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.0_8f41da6d73e8c9ad3612ee8f3fad5d9a454754ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.0_2b476ab02b02818569314d651e64650c945de19b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22031b047b12904b888549ba36c0c30d83b1aea1">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.0_a16f339b1ed788f5fa6017d9d7a8c03ae814687a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_1e166430b02532715dd003dc1cf3e0732a919a0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="444a220fadbdf260b3aa47c6e858c5d1e645170f">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.0_a5989087ab7c7e8ab65912ffabd7a87de55f5556/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_d835ddc38460be846db9806cb7d6d46171116957/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/demouser/jterm2017/jterm-friendlychat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_41ed083113ee4888396693fd03a1267cf5f829a4/classes.dex" />
+    </item>
+
+</items>
